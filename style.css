@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+.header,
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1%;
+}
+
+.main {
+    width: 80%;
+    border: 1px solid black;
+    margin: 1% auto;
+    padding: 3%;
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* padding: 0.25%; */
+    text-align: center;
+}
+
+.gomb {
+    /* padding: 10px 15px; */
+    /* margin: 10px; */
+    background-color: rgb(224, 59, 59);
+    color: rgb(221, 199, 171);
+    border-radius: 5px;
+}
